@@ -1,3 +1,0 @@
-# VamshiMyStaticWebsite
-# StaticWebsite
-# Tourwebsite
